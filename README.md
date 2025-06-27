@@ -1,2 +1,2 @@
-# FITPOKE Server
-FastAPI server for FitPoke’s personalized menu recommendation service.
+# FITPOKE SERVER
+FastAPI powered server for FITPOKE’s personalized menu recommendation service 🥗
