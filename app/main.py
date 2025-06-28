@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 
+from app.routes import recommend
+
 app = FastAPI()
 
-@app.get("/")
-def root():
-    return {"message": "FITPOKE SERVER is alive!"}
+app.include_router(recommend.router)
