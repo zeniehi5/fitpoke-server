@@ -8,8 +8,8 @@ router = APIRouter()
 
 @router.post("/recommend", response_model=RecommendResponse)
 def recommend(data: RecommendRequest):
-    bmi = calculate_bmi(data.weight, data.height)
-    bmr = calculate_bmr(data.gender, data.weight, data.height, data.age)
+    bmi = calculate_bmi(data.height, data.weight)
+    bmr = calculate_bmr(data.gender, data.height, data.weight, data.age)
     recommended_intake = calculate_recommended_intake(bmr)
 
     recommended_menu = recommend_menus_by_calories(recommended_intake)
