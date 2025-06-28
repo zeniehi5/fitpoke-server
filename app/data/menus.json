@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Salmon Poke with Brown Barley Rice",
+    "base": "Brown Barley Rice",
+    "main_topping": "Salmon",
+    "calories": 550
+  },
+  {
+    "name": "Tuna Cubes Poke with Brown Barley Rice",
+    "base": "Brown Barley Rice",
+    "main_topping": "Tuna Cubes",
+    "calories": 530
+  },
+  {
+    "name": "Smoked Duck Poke with Brown Barley Rice",
+    "base": "Brown Barley Rice",
+    "main_topping": "Smoked Duck",
+    "calories": 650
+  },
+  {
+    "name": "Beef Sirloin Poke with Brown Barley Rice",
+    "base": "Brown Barley Rice",
+    "main_topping": "Beef Sirloin",
+    "calories": 700
+  },
+  {
+    "name": "Chicken Thigh Poke with Brown Barley Rice",
+    "base": "Brown Barley Rice",
+    "main_topping": "Chicken Thigh",
+    "calories": 600
+  },
+  {
+    "name": "Chicken Breast Poke with Brown Barley Rice",
+    "base": "Brown Barley Rice",
+    "main_topping": "Chicken Breast",
+    "calories": 520
+  },
+  {
+    "name": "Grilled Shrimp Poke with Brown Barley Rice",
+    "base": "Brown Barley Rice",
+    "main_topping": "Grilled Shrimp",
+    "calories": 560
+  },
+  {
+    "name": "Tofu Mushroom Poke with Brown Barley Rice",
+    "base": "Brown Barley Rice",
+    "main_topping": "Tofu Mushroom",
+    "calories": 480
+  },
+
+  {
+    "name": "Salmon Poke with Buckwheat Noodles",
+    "base": "Buckwheat Noodles",
+    "main_topping": "Salmon",
+    "calories": 520
+  },
+  {
+    "name": "Tuna Cubes Poke with Buckwheat Noodles",
+    "base": "Buckwheat Noodles",
+    "main_topping": "Tuna Cubes",
+    "calories": 500
+  },
+  {
+    "name": "Smoked Duck Poke with Buckwheat Noodles",
+    "base": "Buckwheat Noodles",
+    "main_topping": "Smoked Duck",
+    "calories": 620
+  },
+  {
+    "name": "Beef Sirloin Poke with Buckwheat Noodles",
+    "base": "Buckwheat Noodles",
+    "main_topping": "Beef Sirloin",
+    "calories": 670
+  },
+  {
+    "name": "Chicken Thigh Poke with Buckwheat Noodles",
+    "base": "Buckwheat Noodles",
+    "main_topping": "Chicken Thigh",
+    "calories": 580
+  },
+  {
+    "name": "Chicken Breast Poke with Buckwheat Noodles",
+    "base": "Buckwheat Noodles",
+    "main_topping": "Chicken Breast",
+    "calories": 510
+  },
+  {
+    "name": "Grilled Shrimp Poke with Buckwheat Noodles",
+    "base": "Buckwheat Noodles",
+    "main_topping": "Grilled Shrimp",
+    "calories": 540
+  },
+  {
+    "name": "Tofu Mushroom Poke with Buckwheat Noodles",
+    "base": "Buckwheat Noodles",
+    "main_topping": "Tofu Mushroom",
+    "calories": 460
+  },
+
+  {
+    "name": "Salmon Poke with Tofu Noodles",
+    "base": "Tofu Noodles",
+    "main_topping": "Salmon",
+    "calories": 500
+  },
+  {
+    "name": "Tuna Cubes Poke with Tofu Noodles",
+    "base": "Tofu Noodles",
+    "main_topping": "Tuna Cubes",
+    "calories": 480
+  },
+  {
+    "name": "Smoked Duck Poke with Tofu Noodles",
+    "base": "Tofu Noodles",
+    "main_topping": "Smoked Duck",
+    "calories": 600
+  },
+  {
+    "name": "Beef Sirloin Poke with Tofu Noodles",
+    "base": "Tofu Noodles",
+    "main_topping": "Beef Sirloin",
+    "calories": 650
+  },
+  {
+    "name": "Chicken Thigh Poke with Tofu Noodles",
+    "base": "Tofu Noodles",
+    "main_topping": "Chicken Thigh",
+    "calories": 560
+  },
+  {
+    "name": "Chicken Breast Poke with Tofu Noodles",
+    "base": "Tofu Noodles",
+    "main_topping": "Chicken Breast",
+    "calories": 490
+  },
+  {
+    "name": "Grilled Shrimp Poke with Tofu Noodles",
+    "base": "Tofu Noodles",
+    "main_topping": "Grilled Shrimp",
+    "calories": 520
+  },
+  {
+    "name": "Tofu Mushroom Poke with Tofu Noodles",
+    "base": "Tofu Noodles",
+    "main_topping": "Tofu Mushroom",
+    "calories": 440
+  },
+
+  {
+    "name": "Salmon Poke with Salad Only",
+    "base": "Salad Only",
+    "main_topping": "Salmon",
+    "calories": 480
+  },
+  {
+    "name": "Tuna Cubes Poke with Salad Only",
+    "base": "Salad Only",
+    "main_topping": "Tuna Cubes",
+    "calories": 460
+  },
+  {
+    "name": "Smoked Duck Poke with Salad Only",
+    "base": "Salad Only",
+    "main_topping": "Smoked Duck",
+    "calories": 580
+  },
+  {
+    "name": "Beef Sirloin Poke with Salad Only",
+    "base": "Salad Only",
+    "main_topping": "Beef Sirloin",
+    "calories": 630
+  },
+  {
+    "name": "Chicken Thigh Poke with Salad Only",
+    "base": "Salad Only",
+    "main_topping": "Chicken Thigh",
+    "calories": 540
+  },
+  {
+    "name": "Chicken Breast Poke with Salad Only",
+    "base": "Salad Only",
+    "main_topping": "Chicken Breast",
+    "calories": 470
+  },
+  {
+    "name": "Grilled Shrimp Poke with Salad Only",
+    "base": "Salad Only",
+    "main_topping": "Grilled Shrimp",
+    "calories": 500
+  },
+  {
+    "name": "Tofu Mushroom Poke with Salad Only",
+    "base": "Salad Only",
+    "main_topping": "Tofu Mushroom",
+    "calories": 420
+  }
+]
