@@ -2,6 +2,9 @@ from app.schemas import GenderEnum
 
 
 def calculate_bmi(height: float, weight: float) -> float:
+    if height <= 0:
+        raise ValueError("Height must be greater than 0 for bmi calculation")
+
     bmi = weight / ((height/100) ** 2)
     return round(bmi, 1)
 
